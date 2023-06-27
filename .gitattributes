@@ -1,2 +1,25 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+   <!--this is just a useless scratch-->
+   <head>
+<title>My Fabulous Page</title>
+   </head> 
+
+   <body>
+    <h1>HELLO WORLD <strong>CARALHOO!!!</strong></h1>
+    <p>Fabulous random content</p>
+    <style>
+      h1{
+         font-size: xx-large;
+          text-transform: uppercase;
+         }
+         *{
+            background-color: blanchedalmond;
+         }
+*{
+   text-align: center;
+}
+    </style>
+    <img src="https://c.tenor.com/eFujsQkqmJYAAAAC/home-simpson.gif" alt="">
+   </body>
+</html>
